@@ -1,5 +1,7 @@
-pytest
-flask
+matplotlib
+numpy
 pandas
 scikit-learn
+pytest
+flask
 requests
